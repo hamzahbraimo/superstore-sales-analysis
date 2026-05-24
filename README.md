@@ -1,4 +1,4 @@
-🏬 SUPERSTORE SALES ANALYSIS
+# 🏬 SUPERSTORE SALES ANALYSIS
 
 This is a project that uses Python with the following libraries:
 
@@ -15,8 +15,8 @@ This is a project that uses Python with the following libraries:
 to analyze and visualize data.
 
 *********************************************************************
-# TO-DO: ADD BUSINESS QUESTIONS
-This project has the following business questions:
+<!-- TO-DO: ADD BUSINESS QUESTIONS -->
+# This project has the following business questions:
 1.
 2.
 3.
@@ -25,12 +25,11 @@ This project has the following business questions:
 
 
 *********************************************************************
-
-After cloning this repo:
+# After cloning this repo:
 
 📂 1: Get the Dataset
 Download the dataset and place it inside the data/ directory:
-👉 Superstore Dataset (Kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?utm_source=copilot.com
+👉 Superstore Dataset (Kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ⚙️ 2: Install Dependencies
 Run this command in your terminal: `pip install -r requirements.txt`
@@ -45,6 +44,4 @@ and open the `notebooks/` to check the notebooks
 ✅ 4: Test Your Setup
 
 *********************************************************************
-
-
-✨ HAPPY CODING & DATA EXPLORATION! 🎉
+# ✨ HAPPY CODING & DATA EXPLORATION! 🎉
