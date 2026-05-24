@@ -1,12 +1,16 @@
 *********************************************************************
-# 🏬 SUPERSTORE SALES ANALYSIS
+# SUPERSTORE SALES ANALYSIS
 
 This is a project that uses Python with the following libraries:
 
 • pandas
+
 • numpy
+
 • matplotlib
+
 • seaborn
+
 • jupyter
 
 to analyze and visualize data.
@@ -27,6 +31,7 @@ to analyze and visualize data.
 
 📂 1: Get the Dataset
 Download the dataset and place it inside the data/ directory:
+
 👉 Superstore Dataset (Kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ⚙️ 2: Install Dependencies
