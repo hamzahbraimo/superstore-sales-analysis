@@ -3,15 +3,11 @@
 
 This is a project that uses Python with the following libraries:
 
-📊 pandas
-
-🔢 numpy
-
-🎨 matplotlib
-
-🌈 seaborn
-
-📓 jupyter
+• pandas
+• numpy
+• matplotlib
+• seaborn
+• jupyter
 
 to analyze and visualize data.
 *********************************************************************
@@ -52,4 +48,4 @@ For environment run: `jupyter notebook` and open the `notebooks/` to check the n
 6. Visualizations
 7. Summaries
 *********************************************************************
-# ✨ HAPPY CODING & DATA EXPLORATION! 🎉
+# HAPPY CODING & DATA EXPLORATION!
