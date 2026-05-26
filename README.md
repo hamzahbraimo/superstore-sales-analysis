@@ -15,7 +15,7 @@ This is a project that uses Python with the following libraries:
 
 to analyze and visualize data.
 *********************************************************************
-# This project has the following business questions:
+# This project answers the following business questions:
 1. Which region generates the most total sales?
 2. What are the top 5 products by total revenue?
 3. What do monthly sales trends look like over time?
