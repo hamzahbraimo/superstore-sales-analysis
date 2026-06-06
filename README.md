@@ -29,20 +29,20 @@ to analyze and visualize data.
 *********************************************************************
 # After cloning this repo:
 
-📂 1: Get the Dataset
-Download the dataset and place it inside the data/ directory:
+1: Get the Dataset
+Download the dataset and place it inside the `data/` directory:
 
 👉 Superstore Dataset (Kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-⚙️ 2: Install Dependencies
+2: Install Dependencies
 Run this command in your terminal: `pip install -r requirements.txt`
 
 OR install it directly: `pip install pandas numpy matplotlib seaborn jupyter`
 
-🚀 3: Launch Jupyter Notebook
+3: Launch Jupyter Notebook
 For environment run: `jupyter notebook` and open the `notebooks/` to check the notebooks
 
-✅ 4: Test Your Setup
+4: Test Your Setup
 *********************************************************************
 # NOTEBOOK SECTIONS
 1. Imports and setup
