@@ -51,6 +51,5 @@ For environment run: `jupyter notebook` and open the `notebooks/` to check the n
 4. Answering business questions using SQL queries
 5. NumPy analysis
 6. Visualizations
-7. Summaries
 *********************************************************************
 # HAPPY CODING & DATA EXPLORATION!
