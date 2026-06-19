@@ -3,11 +3,11 @@
 
 This is a project that uses Python with the following libraries:
 
-• pandas
-• numpy
-• matplotlib
-• seaborn
-• jupyter
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter
 
 to clean, analyze and visualize data.
 *********************************************************************
