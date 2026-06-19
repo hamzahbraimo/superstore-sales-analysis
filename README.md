@@ -31,8 +31,8 @@ to analyze and visualize data.
 - **Most total sales:** West ($725457.82)
 - **Highest profit margin:** Technology (17.4%)
 - **Biggest underperformer:** Texas (Total profit of *-25729.36* with 985 total orders)
-- **Sub-categories with negative total profit:** Bookcases (-3472.56), Supplies (-1189.10) & Tables (-17725.48)
-- **Most valuable customer segment:** Consumer (with a total profit of *134119.21*)
+- **Sub-categories with negative total profit:** Bookcases ($-3472.56), Supplies ($-1189.10) & Tables ($-17725.48)
+- **Most valuable customer segment:** Consumer (with a total profit of *$134119.21*)
 - **Higher discounts tend to lead to negative profit:** Discounts between 30-40% averaged a profit of *$-50.24*, meanwhile orders that offered a discount of 50% or more, averaged a profit of *$-107.65*
 *********************************************************************
 # After cloning this repo:
