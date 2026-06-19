@@ -4,16 +4,12 @@
 This is a project that uses Python with the following libraries:
 
 • pandas
-
 • numpy
-
 • matplotlib
-
 • seaborn
-
 • jupyter
 
-to analyze and visualize data.
+to clean, analyze and visualize data.
 *********************************************************************
 # This project answers the following business questions:
 1. Which region generates the most total sales?
